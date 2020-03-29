@@ -1,6 +1,6 @@
 # Likes Displays
 
-![alt text]("Link")
+![image](https://user-images.githubusercontent.com/40672950/77836861-afd06980-7138-11ea-9b07-5565a280a13d.png)
 **CodeForce:** https://codeforces.com/contest/1297/problem/A
 
 ---
